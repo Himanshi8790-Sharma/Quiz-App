@@ -5,7 +5,7 @@ A dynamic and responsive Quiz App built using **HTML**, **CSS**, and **JavaScrip
 ---
 ## 🚀 Live Demo
 
-🔗 [Click](https://your-netlify-link.netlify.app)  
+🔗 [Click](https://himanshi8790-sharma.github.io/Quiz-App/)  
 
 ## 🔥 Features
 
